@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<quotes>
+	<entry>
+	    <quote>
+	     There are two ways of constructing a software design: One way is to make it <br />so simple that there are obviously no deficiencies and the other way is to make it <br />so complicated that there are no obvious deficiencies.   
+	    </quote>
+	    <author>
+	    ~ C.A.R. Hoare, The 1980 ACM Turing Award Lecture
+	    </author>
+	</entry> 
+	<entry>
+		<quote>
+			It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free. 
+		</quote>
+		<author>
+			~ Steve McConnell 
+		</author>
+	</entry>
+	<entry>
+		<quote>
+			If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+		</quote>
+		<author>
+			~ Edsger Dijkstra 
+		</author>
+	</entry>
+	<entry>
+		<quote>
+			Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+		</quote>
+		<author>
+			~ Brian Kernighan 
+		</author>
+	</entry>
+	<entry>
+		<quote>
+			The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.
+		</quote>
+		<author>
+			~ Tom Cargill 
+		</author>
+	</entry>
+	<entry>
+		<quote>
+			Good code is its own best documentation. As you're about to add a comment, ask yourself, "How can I improve the code so that this comment isn't needed?" Improve the code and then document it to make it even clearer.
+		</quote>
+		<author>
+			~ Steve McConnell 
+		</author>
+	</entry>
+	<entry>
+		<quote>
+			 Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.
+		</quote>
+		<author>
+			~ Eagleson's law 
+		</author>
+	</entry>
+	<entry>
+		<quote>
+			Programmer - an organism that turns coffee into software.
+		</quote>
+		<author>
+			~ Author Unknown
+		</author>
+	</entry>
+	<entry>
+		<quote>
+			And then it occurred to me that a computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things.  They are, in short, a perfect match.
+		</quote>
+		<author>
+			~ Bill Bryson
+		</author>
+	</entry>
+<entry>
+		<quote>
+			Another effective technique is to explain your code to someone else.  This will often cause you to explain the bug to yourself.  Sometimes it takes no more than a few sentences, followed by an embarrassed "Never mind, I see what's wrong.  Sorry to bother you."  This works remarkably well; you can even use non-programmers as listeners.  One university computer center kept a teddy bear near the help desk.  Students with mysterious bugs were required to explain them to the bear before they could speak to a human counselor.
+		</quote>
+		<author>
+			~ Brian Kernighan and Rob Pike, about debugging
+		</author>
+	</entry>
+<entry>
+		<quote>
+			A good programmer is someone who always looks both ways before crossing a one-way street.
+		</quote>
+		<author>
+			~ Doug Linder
+		</author>
+	</entry>
+<entry>
+		<quote>
+			Beta.  Software undergoes beta testing shortly before it's released.  Beta is Latin for "still doesn't work.
+		</quote>
+		<author>
+			~ Author Unknown
+		</author>
+	</entry>
+<entry>
+		<quote>
+			If you cannot grok the overall structure of a program while taking a shower, e.g., with no external memory aids, you are not ready to code it.
+		</quote>
+		<author>
+			~ Richard Pattis
+		</author>
+	</entry>
+<entry>
+		<quote>
+			It's the only job I can think of where I get to be both an engineer and an artist.  There's an incredible, rigorous, technical element to it, which I like because you have to do very precise thinking.  On the other hand, it has a wildly creative side where the boundaries of imagination are the only real limitation.
+		</quote>
+		<author>
+			~ Andy Hertzfeld, about programming
+		</author>
+	</entry>
+	<entry>
+		<quote>
+			Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots.  So far, the universe is winning.
+		</quote>
+		<author>
+		~ Author Unknown
+		</author>
+	</entry>
+	<entry>
+		<quote>
+			What I mean is that if you really want to understand something, the best way is to try and explain it to someone else.  That forces you to sort it out in your own mind.  And the more slow and dim-witted your pupil, the more you have to break things down into more and more simple ideas.  And that's really the essence of programming.  By the time you've sorted out a complicated idea into little steps that even a stupid machine can deal with, you've certainly learned something about it yourself.
+		</quote>
+		<author>
+			~ Douglas Adams
+		</author>
+	</entry>	
+	<entry>
+		<quote>
+			UNIX was not designed to stop its users from doing stupid things, as that would also stop them from doing clever things.
+		</quote>
+		<author>
+			~ Doug Gwyn
+		</author>
+	</entry>			
+	<entry>
+		<quote>
+			All software sucks, be it open-source [or] proprietary. The only question is what can be done with particular instance of suckage, and that's where having the source matters.
+		</quote>
+		<author>
+			~ viro<a href="http://www.ussg.iu.edu/hypermail/linux/kernel/0404.3/1344.html">viro</a>
+		</author>
+	</entry>	
+	<entry>
+		<quote>
+			“The question of whether computers can think is like the question of whether submarines can swim.”
+		<author>
+			~ Edsger W. Dijkstra
+		</author>
+		</quote>
+	</entry>
+</quotes>
